@@ -1,0 +1,18 @@
+music/global:
+  version: VERSION
+  css:
+    component:
+      //use.fontawesome.com/releases/v5.1.0/css/all.css: { }
+  js:
+    js/music_icons.js: { }
+  dependencies:
+    - js/music_icons.js
+fontawesome:
+  version: VERSION
+  css:
+    component:
+      //use.fontawesome.com/releases/v5.1.0/css/all.css: {}
+  js:
+    js/music_icons.js: {}
+  dependencies:
+    - js/music_icons.js
